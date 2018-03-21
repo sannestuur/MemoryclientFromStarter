@@ -1,0 +1,10 @@
+.Board {
+  flex: 1;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px auto;
+  min-width: 10%;
+  max-width: 648px;
+  max-height: 10%;
+  border: 8px solid #c68c53;
+}
