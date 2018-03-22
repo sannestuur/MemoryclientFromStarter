@@ -16,7 +16,7 @@ class Square extends PureComponent {
   }
 
   render() {
-    const { value } = this.props
+    const { value, index } = this.props
 
     return (
       <div

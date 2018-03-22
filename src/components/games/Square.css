@@ -30,5 +30,6 @@
 }
 
 .Square.fill-2 {
-  background-color: #59A3C9;
+  /* background-color: #59A3C9; */
+  background-image: url("../images/1.png")
 }

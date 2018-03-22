@@ -14,6 +14,7 @@ export class Board extends PureComponent {
   renderSquare= (value, index) => {
     return (
       <Square
+      key={index}
       index={index}
       value={value}
       />
